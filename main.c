@@ -8,7 +8,7 @@
 
 #define IN 1           // we are in a word
 #define OUT 0          // we are out of a word
-#define MAX_LENGTH 15  // The maximum length of a word
+#define MAX_LENGTH 20  // The maximum length of a word
 
 int main(void) {
   int i, c, state, count;
